@@ -15,7 +15,7 @@ const projects = [
         title: 'Custom Version Control System',
         description: 'A simplified Git-like version control system built in Python supporting commits, staging, and history tracking. Uses SHA-1 hashing for content-addressable storage and a CLI replicating core Git workflows.',
         tech: ['Python', 'SHA-1 Hashing', 'CLI', 'File I/O'],
-        github: 'https://github.com/IamConnor08',
+        github: 'https://github.com/IamConnor08/mygit',
     },
     {
         title: 'Custom HTTP Web Server',
