@@ -5,10 +5,11 @@ function Hero() {
             <h1 style={styles.name}>Connor Fitts</h1>
             <h2 style={styles.title}>Full Stack Developer</h2>
             <p style={styles.bio}>
-                CS graduate from Indiana State University building full-stack web apps 
-                and tools. I enjoy understanding how things work under the hood — from 
-                the database to the UI. Self-taught in Docker, AI integration, and more 
-                while working full-time through college.
+                CS graduate from Indiana State University building full-stack apps 
+                and low-level projects. I care more about how things work than just 
+                making them work — whether that’s backend systems, APIs, or infrastructure. 
+                Learned Docker and started exploring AI integration on my own while working 
+                full-time through school.
             </p>
             <div style={styles.links}>
                 <a href="https://github.com/IamConnor08" target="_blank" style={styles.link}>
